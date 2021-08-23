@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f49e873-06a0-4c0c-b186-76c0f512994f" name="Default Changelist" comment="" />
+    <list default="true" id="9f49e873-06a0-4c0c-b186-76c0f512994f" name="Default Changelist" comment="3 page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602151334424</updated>
     </task>
+    <task id="LOCAL-00001" summary="3 page">
+      <created>1629733236356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629733236356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 page" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 page" />
   </component>
 </project>
