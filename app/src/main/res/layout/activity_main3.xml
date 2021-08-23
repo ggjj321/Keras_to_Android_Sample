@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:theme="@style/CardView.Dark"
+    android:visibility="visible"
+    android:background="#7FBAC1">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="442dp"
+        android:layout_height="174dp"
+        android:backgroundTint="#AE94DD"
+        android:onClick="click"
+        android:text="地圖"
+        android:textSize="48sp"
+        android:textStyle="normal|bold|italic" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="444dp"
+        android:layout_height="259dp"
+        android:backgroundTint="#9DD59F"
+        android:onClick="click"
+        android:text="食譜"
+        android:textSize="48sp"
+        android:textStyle="normal|bold|italic" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="448dp"
+        android:layout_height="225dp"
+        android:backgroundTint="#DC8BA6"
+        android:onClick="click"
+        android:text="建議"
+        android:textSize="48sp"
+        android:textStyle="normal|bold|italic" />
+
+</LinearLayout>
